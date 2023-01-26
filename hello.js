@@ -1,1 +1,1 @@
-console.log(6876)
+console.log(9)
