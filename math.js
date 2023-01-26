@@ -27,4 +27,11 @@ var name = "md. nahiduzzaman";
 //set new value
  priceOfApple = 150;
 
+
+ //string concatenation 
+  var firstName = 'Md';
+  var secondName = 'Nahiduzzaman';
+var fullName = firstName + ' ' +secondName;
+console.log(fullName);
+
  
